@@ -183,7 +183,6 @@ Good morning
 Good afternoon
 Nice to meet you
 Here I am
-excuse me
 Thank you
 Good evening
 Happy Birthday
@@ -192,7 +191,6 @@ Can I help you
 Yes, please
 How old are you
 Here you are
-You're welcome
 take pictures
 Are you OK
 pencil case
@@ -203,9 +201,7 @@ All right
 sit down
 look out of
 Would you like
-look at
 That's all right
-have fun
 after class
 break time
 What about you

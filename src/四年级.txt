@@ -150,10 +150,7 @@ Welcome back to
 be good at
 learn about
 sports ground
-get up
 have lessons
-go to bed
-hurry up
 What time is it
 I'm coming
 Come on
@@ -169,7 +166,6 @@ lots of
 What's the weather like today
 fly a kite
 It's raining
-go boating
 go skating
 ice cream
 go swimming
@@ -186,13 +182,10 @@ go home
 have dinner
 watch TV
 in the evening
-at night
 Good idea
 I think so
-What's the matter
 come to school
 take care
 I'm fine, thank you
 See you
 Not so good
-at school
