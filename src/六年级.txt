@@ -1,3 +1,4 @@
+long long ago
 magic
 clever
 foolish
@@ -14,7 +15,9 @@ little
 turn
 think
 hard
+laugh at
 grandchildren
+move ... away
 child
 sunny
 show
@@ -36,40 +39,73 @@ rainy
 meet
 lose
 know
+What happened
+climb up
+hold onto
+fly away
 holiday
+National Day
 call
 Bund
+Shanghai Museum
 star
+Great Wall
+Palace Museum
+Summer Palace
+Tian'anmen Square
+fashion show
 excited
 paper
 ask
 bottle
+go well
+at first
+heavy rain
+then and now
 ago
 use
 telephone
 office
+mobile phone
 anywhere
 radio
 newspaper
 news
 watch
 e-book
+make friends
+all over the world
+do shopping
 TV
+look out of
+go on
 still
+What day is today
 spell
+make a sentence
 with
 yesterday
 sign
+shopping centre
 careful
+What does it mean
 mean
 floor
 litter
+go in
+take ... into
 restaurant
 someone
 smoke
 smell
+No eating or drinking
+No littering
+No parking
+No smoking
 Danger
+Wet floor
 outing
+walk on
 around
 keep
 clean
@@ -86,6 +122,7 @@ museum
 throw
 skin
 ground
+pick ... up
 slip
 fall
 protect
@@ -97,19 +134,29 @@ waste
 reuse
 energy
 most
+come from
 coal
 oil
 drive
 wood
 other
+cut down
+too many
+too much
 plastic
 glass
 project
 poster
 gate
 get
+Hong Kong
+next week
 food
 tangyuan
+Chinese New Year's Eve
+Chinese New Year's Day
+red packet
+lion dance
 fireworks
 firecracker
 rich
@@ -119,32 +166,46 @@ light
 mouse
 large
 strong
+walk by
+wake ... up
+some day
 quietly
 weak
 loudly
+let ... go
+the next day
 net
 bite
 sharp
 sadly
+just then
 soon
 happily
+from then on
 cheer
 hit
 deep
 reach
 quickly
+pour ... into
 habit
 never
 late
+put ... in order
 finish
 tidy
 bad
 sleepy
+last night
 fast
+go into
 slowly
 badly
 healthy
 diet
+a little
+a few
+at a time
 cola
 need
 road
@@ -152,131 +213,69 @@ safety
 cross
 safely
 must
+zebra crossing
 safe
 pavement
+look out for
 easily
 follow
 rule
 stay
+Children's Day
 clown
 appear
 balloon
 begin
+put on
 end
 country
 will
 learn
 Australia
+find out
 magazine
 kangaroo
 koala
 sport-lover
+Australian football
 exciting
 Sydney
 welcome
 visitor
+for example
 London
 Oxford
 like
-month
-sound
-Disneyland
-Taipei
-photo
-travel
-traveller
-different
-dream
-future
-tooth
-astronaut
-spaceship
-dancer
-pianist
-scientist
-brave
-artist
-paint
-
-long long ago
-laugh at
-move ... away
-What happened
-climb up
-hold onto
-fly away
-National Day
-Shanghai Museum
-Great Wall
-Palace Museum
-Summer Palace
-Tian'anmen Square
-fashion show
-go well
-at first
-heavy rain
-then and now
-mobile phone
-make friends
-all over the world
-do shopping
-look out of
-go on
-What day is today
-make a sentence
-shopping centre
-What does it mean
-go in
-take ... into
-No eating or drinking
-No littering
-No parking
-No smoking
-Wet floor
-walk on
-pick ... up
-come from
-cut down
-too many
-too much
-Hong Kong
-next week
-Chinese New Year's Eve
-Chinese New Year's Day
-red packet
-lion dance
-walk by
-wake ... up
-some day
-let ... go
-the next day
-just then
-from then on
-pour ... into
-put ... in order
-last night
-go into
-a little
-a few
-at a time
-zebra crossing
-look out for
-Children's Day
-put on
-find out
-Australian football
-for example
 Big Ben
 London Eye
 Tower Bridge
 What do you think
+month
 summer holiday
 go back to
 how long
+sound
+Disneyland
 Ocean Park
+Taipei
+photo
+travel
+traveller
 travel around the world
+different
+dream
+future
 care about
+tooth
+astronaut
+spaceship
 football player
 World Cup
+dancer
+pianist
 come true
 take care of
+scientist
+brave
+artist
+paint

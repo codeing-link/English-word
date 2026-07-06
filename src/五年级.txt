@@ -3,10 +3,12 @@ forest
 there
 house
 soup
+just right
 room
 hard
 soft
 afraid
+in front of
 her
 Help
 beside
@@ -17,6 +19,7 @@ then
 find
 their
 student
+show ... around
 classroom
 second
 floor
@@ -29,6 +32,7 @@ heavy
 stop
 high
 great
+one ... the other
 body
 no
 leg
@@ -40,11 +44,15 @@ rabbit
 give
 finger
 hobby
+be good at
 with
 also
 read
 story
+a lot of
+play the piano
 dance
+watch films
 both
 sing
 group
@@ -52,6 +60,7 @@ about
 idea
 ice
 hole
+Look out
 wet
 doctor
 sick
@@ -68,47 +77,67 @@ teach
 writer
 write
 work
+at home
 e-friend
+wait a minute
 send
 email
 to
 live
 UK
+years old
 study
 Canada
 Greece
 Russia
 PRC
 US
+go fishing
+at weekends
 visit
 grandparent
+play with
+very much
 often
 chat
 Internet
 always
 sometimes
+go to the cinema
+a lot
+come out
+get out
 Christmas
 buy
 present
+Christmas tree
 fishing
+Don't worry
 sit
 by
 get
+Father Christmas
 next
 put
 pretty
 thing
 look
+Christmas Eve
 stocking
+wait for
 finally
+Christmas Day
 early
 turkey
 pudding
 all
+have a good time
 card
 children
 message
+Merry Christmas
 song
+What's wrong with
 him
 letter
 storybook
@@ -119,17 +148,25 @@ why
 because
 clothes
 let
+put on
 before
+have to
+try on
 fit
+take off
 mushroom
 late
 pick
 understand
+be bad for
+leave ... behind
+far from
 moon
 street
 near
 city
 bus
+on foot
 metro
 taxi
 bike
@@ -140,43 +177,66 @@ ride
 show
 young
 basket
+ask the way
+get to
 take
+get on
 station
+get off
 walk
 bookshop
+next to
 sun
+ask ... for help
+excuse me
 along
+turn right
+traffic light
+on your right
 cinema
 hospital
 shop
 zoo
+turn left
 supermarket
 film
 full
 over
+see the doctor
 feel
 check
 should
+have a rest
+take medicine
+drink water
 toothache
 dentist
 anything
+brush one's teeth
 bedtime
 giraffe
+point at
 neck
 parent
 clean
+sweep the floor
 busy
+wash the dishes
+make the bed
 grow
 garden
 sweet
 pest
 ladybird
+go away
 game
 smell
 meat
 vegetable
 tomato
 potato
+I can't wait
+look for
 ready
 yummy
 love
@@ -186,19 +246,32 @@ yeah
 angry
 spot
 catch
+drive ... away
 festival
+Spring Festival
 January
 February
 call
+Chinese New Year
+get together
 jiaozi
+Dragon Boat Festival
 May
 June
+dragon boat race
 place
+rice dumpling
+Mid-Autumn Festival
 September
 October
+moon cake
+Double Ninth Festival
 November
 old
 mountain
+rice cake
+Mother's Day
+Father's Day
 favourite
 birthday
 eleventh
@@ -217,77 +290,3 @@ answer
 fourth
 start
 fight
-
-just right
-in front of
-show ... around
-one ... the other
-be good at
-a lot of
-play the piano
-watch films
-Look out
-at home
-wait a minute
-years old
-go fishing
-at weekends
-play with
-very much
-go to the cinema
-a lot
-come out
-get out
-Christmas tree
-Don't worry
-Father Christmas
-Christmas Eve
-wait for
-Christmas Day
-have a good time
-Merry Christmas
-What's wrong with
-put on
-have to
-try on
-take off
-be bad for
-leave ... behind
-far from
-on foot
-ask the way
-get to
-get on
-get off
-next to
-ask ... for help
-excuse me
-turn right
-traffic light
-on your right
-turn left
-see the doctor
-have a rest
-take medicine
-drink water
-brush one's teeth
-point at
-sweep the floor
-wash the dishes
-make the bed
-go away
-I can't wait
-look for
-drive ... away
-Spring Festival
-Chinese New Year
-get together
-Dragon Boat Festival
-dragon boat race
-rice dumpling
-Mid-Autumn Festival
-moon cake
-Double Ninth Festival
-rice cake
-Mother's Day
-Father's Day

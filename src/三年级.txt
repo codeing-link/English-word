@@ -1,11 +1,13 @@
 hello
 hi
+Good morning
 I
 am
 ah
 a
 cat
 Miss
+Good afternoon
 class
 goodbye
 bye
@@ -14,6 +16,7 @@ is
 your
 name
 my
+Nice to meet you
 too
 boy
 and
@@ -25,11 +28,13 @@ no
 not
 yes
 ha
+Here I am
 but
 oh
 sorry
 twin
 we
+excuse me
 in
 with
 right
@@ -39,6 +44,7 @@ she
 he
 it
 good
+Thank you
 have
 many
 mother
@@ -48,6 +54,7 @@ mum
 brother
 baby
 sister
+Good evening
 quick
 look
 the
@@ -69,6 +76,7 @@ wow
 big
 happy
 love
+Happy Birthday
 one
 two
 three
@@ -85,12 +93,18 @@ car
 book
 ball
 cake
+How lovely
+Can I help you
+Yes, please
 some
 toy
 for
 OK
+How old are you
 please
 here
+Here you are
+You're welcome
 thanks
 can
 do
@@ -98,7 +112,9 @@ clean
 table
 draw
 sing
+take pictures
 dance
+Are you OK
 dizzy
 picture
 er
@@ -111,13 +127,16 @@ pencil
 ruler
 rubber
 schoolbag
+pencil case
 that
 put
 guess
 again
 long
+Good idea
 our
 classroom
+put away
 close
 window
 blackboard
@@ -128,6 +147,8 @@ let
 us
 desk
 dirty
+Me too
+All right
 keep
 rule
 library
@@ -136,18 +157,26 @@ talk
 eat
 run
 Mrs
+sit down
 late
+look out of
 on
 shh
 fun
 quiet
 follow
+Would you like
 sweet
+look at
+That's all right
+have fun
+after class
 behind
 tree
 by
 under
 flower
+break time
 play
 outside
 ready
@@ -160,6 +189,7 @@ find
 over
 student
 from
+Art Club
 nice
 of
 garden
@@ -179,6 +209,7 @@ make
 salad
 together
 an
+What about you
 farm
 cow
 sheep
@@ -186,6 +217,7 @@ rabbit
 chicken
 carrot
 pig
+Welcome to
 home
 these
 those
@@ -201,6 +233,7 @@ panda
 elephant
 lunchtime
 fish
+high five
 feed
 zoo
 see
@@ -218,39 +251,5 @@ balloon
 sure
 chameleon
 little
-
-Good morning
-Good afternoon
-Nice to meet you
-Here I am
-excuse me
-Thank you
-Good evening
-Happy Birthday
-How lovely
-Can I help you
-Yes, please
-How old are you
-Here you are
-You're welcome
-take pictures
-Are you OK
-pencil case
-Good idea
-put away
-Me too
-All right
-sit down
-look out of
-Would you like
-look at
-That's all right
-have fun
-after class
-break time
-Art Club
-What about you
-Welcome to
-high five
 What colour is
 How come
