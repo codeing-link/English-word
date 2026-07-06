@@ -1,0 +1,793 @@
+unit
+starter unit
+section
+greet
+each
+other
+each other
+oh
+everyone
+start
+conversation
+spell
+bell
+Helen
+Ella
+Emma
+Peter
+Brown
+PRC
+PLA
+VR
+WHO
+UN
+Miller
+bottle
+eraser
+key
+thing
+need
+You're welcome
+fun
+yard
+carrot
+goose
+count
+another
+else
+circle
+look at
+make friends
+get to know
+full
+full name
+grade
+last name
+classmate
+class teacher
+first name
+mistake
+country
+same
+twin
+both
+band
+pot
+a lot
+tofu
+parrot
+guitar
+tennis
+even
+hey
+play the guitar
+would
+would like to
+information
+hobby
+re
+Green
+UK
+US
+Smith
+Lisa
+Tom
+hot pot
+Sally
+Wood
+Sydney
+Australia
+Mapo tofu
+Beijing roast duck
+Singapore
+the Great Wall
+Pauline
+Lee
+Coco
+London
+mean
+husband
+bat
+ping-pong bat
+play ping-pong
+together
+every day
+fishing rod
+spend
+a lot of / lots of
+really
+member
+activity
+chess
+Chinese chess
+grandparent
+funny
+laugh
+different
+violin
+have fun
+hat
+handsome
+knee
+at night
+in the middle
+grandchild
+son
+hike
+go hiking
+next to
+David
+Jim
+Kate
+Lily
+Ireland
+Fred
+Sam
+Jane
+Jack
+Sarah
+Oscar
+Lucy
+hall
+dining hall
+in front of
+building
+across
+across from
+centre
+gym
+field
+sports field
+office
+large
+special
+smart
+whiteboard
+put up
+important
+notice
+locker
+drawer
+at the back
+corner
+bookcase
+screen
+at school
+different from
+modern
+do exercises
+amazing
+raise
+flag
+most
+change
+seat
+delicious
+How about
+yours
+send
+similar
+similar to
+sound
+bye for now
+Flora
+biology
+IT
+geography
+history
+boring
+useful
+exciting
+past
+good with
+number
+help sb with
+reason
+listen to
+good at
+remember
+as
+AM
+PM
+French
+excellent
+instrument
+singer
+future
+in the future
+term
+work out
+problem
+in class
+magic
+life
+scientist
+Baker
+Mike
+Davis
+Canada
+club
+join
+choose
+drama
+play Chinese chess
+feeling
+news
+musical
+musical instrument
+exactly
+drum
+ability
+paint
+climb
+more
+act
+act out
+at home
+interested
+interested in
+nature
+beef
+soon
+than
+more than
+mind
+fall
+fall in love with
+take photos
+collect
+insect
+discover
+wildlife
+Linda
+Alice
+Bill
+Jenny
+make use of
+quarter
+shower
+take a shower
+get dressed
+brush
+tooth
+duty
+on duty
+usually
+get up
+reporter
+around
+homework
+go to bed
+saying
+rise
+stay
+routine
+restaurant
+housework
+while
+weekend
+at weekends
+daily
+daily routine
+only
+break
+Finnish
+finish
+hockey
+ice hockey
+already
+dark
+outside
+part
+everyday
+prepare
+prepare sth for
+Timo
+Halla
+Helsinki
+Finland
+home economics
+celebrate
+surprise
+something
+sale
+kilo
+yogurt
+total
+price
+balloon
+chocolate
+pizza
+list
+own
+example
+for example
+language
+international
+mark
+national
+found
+meaningful
+make a wish
+celebration
+post
+contact
+symbol
+take a photo
+village
+grow
+blow
+blow out
+enjoy
+height
+later
+next time
+whom
+William Shakespeare
+Florence Nightingale
+National Day
+CPC Founding Day
+PLA Day
+Judy
+Clark
+fox
+giraffe
+eagle
+wolf
+penguin
+care
+take care of
+sandwich
+snake
+scary
+neck
+guess
+shark
+whale
+huge
+dangerous
+save
+luck
+Thai
+trunk
+pick
+pick up
+carry
+playful
+swimmer
+one another
+look after
+culture
+however
+danger
+in danger
+forest
+cut down
+too many
+kill
+made of
+ivory
+friendly
+quite
+quite a
+not ... at all
+fur
+blind
+hearing
+Antarctica
+Africa
+Malee
+Thailand
+rule
+order
+follow
+late for
+arrive
+on time
+hallway
+uniform
+litter
+polite
+treat
+respect
+if
+jacket
+have to
+everything
+lend
+sweet
+snack
+of course
+mobile
+mobile phone
+turn off
+queue
+jump the queue
+feed
+leave
+absent
+absent from
+shh
+quietly
+belt
+noise
+unhappy
+Dr
+make sb's/the bed
+either
+practise
+hang
+hang out
+weekday
+awful
+become
+better
+person
+focus
+focus on
+build
+spirit
+think about
+relax
+advice
+understand
+untidy
+Mary
+Tony
+Anne
+Eric
+fit
+baseball
+glove
+mat
+rope
+jump rope
+racket
+hardly
+ever
+hardly ever
+once
+twice
+mine
+hers
+maybe
+well-used
+practice
+perfect
+seldom
+badminton
+double
+sometime
+volleyball
+theirs
+jog
+few
+a few
+excuse
+excuse me
+over there
+just
+T-shirt
+belong
+belong to
+working
+working day
+full of
+energy
+group
+skateboard
+encourage
+trick
+succeed
+skateboarding
+goal
+sit-up
+app
+progress
+match
+team
+ours
+lose
+teenager
+Steve
+watermelon
+cabbage
+mutton
+cookie
+onion
+dumpling
+coffee
+bean
+chip
+fish and chips
+salad
+porridge
+waiter
+What about
+taste
+anything
+dish
+choice
+meal
+pork
+strawberry
+menu
+customer
+serve
+waitress
+sir
+go with
+instead
+pear
+too much
+sugar
+improve
+habit
+fast food
+salt
+fat
+put on
+weight
+hamburger
+cause
+heart
+balanced
+too ... to
+sleepy
+after all
+away
+poor
+result
+article
+common
+among
+soft
+soft drink
+enough
+thirsty
+Gongbao chicken
+America
+Dongpo pork
+right now
+ride
+moment
+at the moment
+work on
+dragon
+festival
+hold
+hold on
+voice
+race
+darling
+somebody
+could
+message
+take a message
+leave a message
+call back
+kick
+wow
+online
+shuttlecock
+sight
+exam
+hope
+forward
+look forward to
+skate
+happen
+zone
+time zone
+around the world
+rush
+in a hurry
+shine
+brightly
+colourful
+slowly
+such
+such as
+painting
+market
+side
+side by side
+subway
+bright
+drop
+drop off
+passenger
+central
+explain
+take part in
+tour
+sunshine
+drive
+rush hour
+Adam
+Dragon Boat Festival
+Beth
+Nairobi
+New York
+Kenya
+USA
+Central Park
+rain or shine
+affect
+dry
+lightning
+stormy
+north
+west
+south
+east
+stay in
+lucky
+lucky you
+sunbathe
+some day
+temperature
+snowman
+heavily
+snowy
+beach volleyball
+high
+freezing
+tourist
+mount
+cloud
+feel like
+magical
+rock
+rest
+area
+rest area
+make progress
+although
+still
+in high spirits
+experience
+through
+glad
+peak
+grey
+because of
+fog
+ground
+wet
+tiring
+seem
+sunlight
+at the top
+thought
+mountain
+at the start
+end
+at the end
+storm
+pour
+wind
+shout
+run after
+Anna
+John
+Stockholm
+Mount Huangshan
+Bright Peak
+meet up
+museum
+exhibition
+direction
+trip
+wastewater
+plant
+into
+remove
+piece
+waste
+machine
+germ
+step
+used to
+realize
+inside
+go on a trip
+process
+theatre
+factory
+terrible
+actor
+gun
+try on
+along
+road
+create
+record
+skill
+write down
+explore
+tent
+cucumber
+from ... to
+straight
+fill
+basket
+teach
+branch
+leaf
+finally
+think of
+grain
+fresh
+certainly
+diary
+entry
+agree
+agree with
+upon
+once upon a time
+bite
+bite through
+net
+hunter
+promise
+long ago
+war
+neighbour
+wise
+emperor
+lie
+pretend
+official
+silly
+decide
+praise
+afraid
+suddenly
+at first
+truth
+tell the truth
+make money
+true
+hate
+get out
+king
+artist
+quickly
+smile
+all over
+ugly
+duckling
+real
+laugh at
+go away
+search
+search for
+hen
+hopefully
+purr
+lay
+swan
+feather
+to sb's surprise
+size
+believe
+only if
+fisherman
+fishing
+come out
+genie
+die
+make a promise
+someone
+set
+set ... free
+rich
+powerful
+anyone
+instead of
+succeed in doing sth
+himself
+in the end
+Hans Christian
+Andersen
