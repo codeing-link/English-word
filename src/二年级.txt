@@ -1,8 +1,6 @@
-she's = she is
 aunt
 cousin
 uncle
-he's = he is
 tall
 Mrs
 short
@@ -24,7 +22,6 @@ giraffe
 long
 neck
 monkey
-Oh no
 tiger
 autumn
 cool
@@ -40,7 +37,6 @@ orange
 potato
 some
 juice
-How about you
 yogurt
 snack
 mmm
@@ -50,14 +46,8 @@ tart
 cupcake
 our
 school
-go to school
-every day
 read
 write
-play games
-have fun
-at school
-clean up
 clean
 table
 chair
@@ -71,8 +61,6 @@ teacher
 nurse
 farmer
 worker
-Where's = Where is
-isn't = is not
 on
 sofa
 under
@@ -87,7 +75,6 @@ rice
 broccoli
 fish
 soup
-How nice
 meat
 noodles
 PE
@@ -105,18 +92,11 @@ mouth
 hair
 ear
 face
-Can you
 skip
 skate
-of course
-can't = cannot
-ride a bike
 swim
-go shopping
 Hooray
 dress
-don't = do not
-How about
 skirt
 shorts
 T-shirt
@@ -127,12 +107,33 @@ play
 beach
 pool
 eat
-ice cream
 drink
-orange juice
 watermelon
 push
-queue up
 talk
 Sorry
 shout
+
+she's = she is
+he's = he is
+Oh no
+How about you
+go to school
+every day
+play games
+have fun
+at school
+clean up
+Where's = Where is
+isn't = is not
+How nice
+Can you
+of course
+can't = cannot
+ride a bike
+go shopping
+don't = do not
+How about
+ice cream
+orange juice
+queue up

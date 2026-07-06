@@ -1,26 +1,17 @@
 Hello
-I'm = I am
 Hi
 is
-This is
 Goodbye
 Mr
-Mr Green
-Good morning
-Good afternoon
-Good evening
 Woof
-Good night
 morning
 afternoon
 evening
 night
 Miss
-Miss Li
 mum
 dad
 this
-Is this
 a
 teddy
 box
@@ -34,21 +25,16 @@ banana
 peach
 grape
 OK
-Thank you
 Look
-Ha! Ha
-look at
 my
 balloon
 pink
-it's = it is
 nice
 red
 blue
 green
 I
 can
-I can
 dance
 robot
 sing
@@ -56,7 +42,6 @@ draw
 Great
 cook
 Wow
-put on
 your
 coat
 oh
@@ -64,10 +49,8 @@ cold
 scarf
 beanie
 sweater
-let's = let us
 count
 Cool
-how many
 marble
 one
 two
@@ -77,14 +60,11 @@ yellow
 five
 pencil
 Ouch
-I'm sorry
-That's OK
 book
 ruler
 rubber
 like
 carrot
-Me too
 onion
 thanks
 pea
@@ -94,27 +74,21 @@ pepper
 spring
 the
 tree
-they're = they are
 flower
 beautiful
 bird
 happy
 kite
 colourful
-what's = what is
-What's this
 ladybird
 cute
 cicada
 butterfly
 dragonfly
-Are you ready
 run
 jump
-Well done
 hop
 walk
-What's that
 Shh
 pig
 Baa
@@ -128,3 +102,27 @@ hankie
 and
 sticker
 yo-yo
+
+I'm = I am
+This is
+Good morning
+Good afternoon
+Good evening
+Good night
+Is this
+Thank you
+look at
+it's = it is
+I can
+put on
+let's = let us
+how many
+I'm sorry
+That's OK
+Me too
+they're = they are
+what's = what is
+What's this
+Are you ready
+Well done
+What's that

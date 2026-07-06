@@ -7,7 +7,6 @@ patient
 secret
 expression
 discover
-look up
 grammar
 repeat
 note
@@ -23,33 +22,27 @@ speed
 review
 partner
 born
-be born with
 ability
 create
 brain
 active
 attention
-pay attention to
 connect
-connect ... with
 overnight
 knowledge
 lifelong
 wisely
 Annie
-Alexander Graham Bell
 mooncake
 lantern
 stranger
 relative
-put on
 pound
 folk
 goddess
 whoever
 steal
 lay
-lay out
 dessert
 garden
 tradition
@@ -64,16 +57,13 @@ lunar
 riddle
 celebration
 firework
-take place
 gather
-count down
 custom
 involve
 crowd
 bottom
 dust
 couplet
-set off
 eve
 express
 reunion
@@ -82,18 +72,8 @@ breeze
 picnic
 coming
 Macao
-Chiang Mai
 Egypt
 Scottish
-Water Festival
-Mid-Autumn Festival
-Mother's Day
-Father's Day
-Spring Festival
-Big Ben
-Auld Lang Syne
-Times Square
-Sham El-Nessim
 Clara
 restroom
 stamp
@@ -106,13 +86,11 @@ bathroom
 normally
 rush
 suggest
-pass by
 staff
 grape
 policeman
 central
 nearby
-pardon me
 mail
 east
 fascinating
@@ -133,20 +111,17 @@ whom
 impolite
 address
 underground
-parking lot
 course
 Italian
 Tim
 humorous
 silent
 helpful
-from time to time
 score
 background
 interview
 Asian
 deal
-deal with
 shyness
 dare
 ton
@@ -160,20 +135,15 @@ insect
 ant
 speech
 public
-in public
 spider
 seldom
 influence
 absent
 fail
 examination
-boarding school
-in person
 exactly
 pride
-take pride in
 proud
-be proud of
 general
 introduction
 Paula
@@ -196,13 +166,11 @@ grass
 leaf
 produce
 widely
-be known for
 process
 pack
 business
 product
 France
-no matter
 local
 brand
 avoid
@@ -224,17 +192,13 @@ its
 form
 clay
 balloon
-paper cutting
 scissors
 lively
-fairy tale
 historical
 heat
 polish
 complete
-South Korea
 Switzerland
-San Francisco
 Marcus
 Pam
 heel
@@ -245,13 +209,11 @@ project
 pleasure
 zipper
 daily
-have a point
 website
 pioneer
 list
 mention
 spread
-by accident
 accidental
 ruler
 boil
@@ -261,7 +223,6 @@ national
 trade
 popularity
 doubt
-without doubt
 fridge
 low
 somebody
@@ -272,7 +233,6 @@ lock
 ring
 earthquake
 sudden
-all of a sudden
 bell
 biscuit
 cookie
@@ -281,15 +241,10 @@ instrument
 crispy
 salty
 sour
-by mistake
 customer
-the Olympics
 Canadian
 divide
-divide ... into
 basket
-not only ... but also
-look up to
 hero
 professional
 nearly
@@ -297,11 +252,7 @@ Berlin
 NBA
 CBA
 Roy
-Whitcomb Judson
 Ruby
-Thomas Watson
-George Crum
-James Naismith
 license
 safety
 smoke
@@ -315,21 +266,16 @@ field
 hug
 lift
 badly
-talk back
 awful
 teen
 regret
 poem
 community
-keep ... away from
 chance
-make one's own decision
 educate
 manage
 society
-get in the way of
 support
-end up
 enter
 choice
 Picasso
@@ -340,9 +286,7 @@ attend
 valuable
 pink
 anybody
-déjà vu
 mystery
-be known as
 theory
 familiar
 hidden
@@ -350,9 +294,7 @@ power
 link
 parallel
 universe
-parallel universes
 mix-up
-generally speaking
 trick
 unsolved
 laboratory
@@ -362,9 +304,7 @@ lie
 sleepy
 land
 alien
-run after
 suit
-at the same time
 circle
 Britain
 receive
@@ -386,10 +326,7 @@ period
 noise
 Stonehenge
 Carla
-J. K. Rowling
-J. K
 Jean
-Paul Stoker
 prefer
 lyrics
 Australian
@@ -399,21 +336,16 @@ smooth
 spare
 director
 case
-in that case
 war
 stick
-stick to
 down
 dialog
 ending
 documentary
 drama
 plenty
-plenty of
 shut
-shut off
 superhero
-once in a while
 intelligent
 sense
 sadness
@@ -422,38 +354,26 @@ reflect
 moving
 perform
 lifetime
-by the end of
 pity
 total
-in total
 master
 praise
 recall
 wound
 painful
-World War II
-Men in Black
-Kung Fu Panda
 Titanic
-March of the Penguins
 Spider-Man
 Carmen
-Dan Dervish
 bow
 kiss
 greet
 relaxed
 value
-drop by
 capital
-after all
 noon
 mad
-get mad
 effort
-make an effort
 passport
-clean ... off
 chalk
 blackboard
 northern
@@ -461,21 +381,17 @@ coast
 season
 knock
 eastern
-take off
 worth
 manner
 empty
 basic
 exchange
-go out of one's way
-make ... feel at home
 teenage
 granddaughter
 behave
 except
 elbow
 gradually
-get used to
 suggestion
 Brazil
 Mexico
@@ -489,50 +405,35 @@ Sato
 Marie
 Teresa
 Lopez
-Marc LeBlanc
 rather
-would rather
 drive
 driven
-drive sb. crazy/mad
-the more ... the more
 lately
-be friends with sb
-leave out
 friendship
 king
 prime
 minister
-prime minister
 banker
 fame
 pale
 queen
-call in
 examine
 nor
-neither ... nor
 palace
 wealth
-to start with
 grey
 lemon
 uncomfortable
 weight
 shoulder
 goal
-let ... down
 coach
 kick
-kick sb. off
-be hard on sb
 besides
 teammate
 courage
-rather than
 guy
 pull
-pull together
 relief
 nod
 agreement
@@ -541,12 +442,9 @@ disappoint
 Bert
 Holly
 unexpected
-by the time
 backpack
 oversleep
-give ... a lift
 block
-in line with
 worker
 stare
 disbelief
@@ -560,17 +458,14 @@ west
 dead
 cream
 workday
-show up
 bean
 market
 fool
 costume
 embarrassed
-costume party
 announce
 spaghetti
 hoax
-sell out
 discovery
 lady
 cancel
@@ -578,14 +473,11 @@ officer
 believable
 disappear
 embarrassing
-New Zealand
 Italy
 Mars
 Matt
 Kevin
 Carl
-Orson Welles
-li er
 fisherman
 coal
 ugly
@@ -599,28 +491,17 @@ shark
 fin
 cruel
 harmful
-be harmful to
-at the top of
 chain
-the food chain
 ecosystem
 industry
 law
 scientific
 present
-take part in
 afford
-turn off
 reusable
-pay for
-take action
 transportation
 recycle
 napkin
-throw away
-put sth. to good use
-pull ... down
-upside down
 gate
 bottle
 president
@@ -628,7 +509,6 @@ inspiration
 iron
 work
 metal
-bring back
 creativity
 WildAid
 WWF
@@ -638,48 +518,141 @@ Jessica
 survey
 standard
 row
-in a row
 keyboard
 method
 instruction
 double
 shall
-look back at
 overcome
-make a mess
 graduate
-keep one's cool
 caring
 ours
 senior
-senior high
 text
-go by
 level
 degree
 manager
-believe in
 gentleman
 graduation
 ceremony
-first of all
 congratulate
 thirsty
-be thirsty for
 thankful
-be thankful to sb
 lastly
 task
 ahead
-ahead of
-along with
 responsible
-be responsible for
 separate
-set out
-separate from
 wing
 Luke
 Brian
 Griffin
 Trent
+
+look up
+be born with
+pay attention to
+connect ... with
+put on
+lay out
+take place
+count down
+set off
+Mid-Autumn Festival
+Mother's Day
+Father's Day
+Spring Festival
+pass by
+pardon me
+parking lot
+from time to time
+deal with
+in public
+boarding school
+in person
+take pride in
+be proud of
+be known for
+no matter
+paper cutting
+fairy tale
+have a point
+by accident
+without doubt
+all of a sudden
+by mistake
+divide ... into
+not only ... but also
+look up to
+talk back
+keep ... away from
+make one's own decision
+get in the way of
+end up
+be known as
+generally speaking
+run after
+at the same time
+in that case
+stick to
+plenty of
+shut off
+once in a while
+by the end of
+in total
+drop by
+after all
+get mad
+make an effort
+clean ... off
+take off
+go out of one's way
+make ... feel at home
+get used to
+would rather
+drive sb. crazy/mad
+the more ... the more
+be friends with sb
+leave out
+prime minister
+call in
+neither ... nor
+to start with
+let ... down
+kick sb. off
+be hard on sb
+rather than
+pull together
+by the time
+give ... a lift
+in line with
+show up
+costume party
+sell out
+be harmful to
+at the top of
+the food chain
+take part in
+turn off
+pay for
+take action
+throw away
+put sth. to good use
+pull ... down
+upside down
+bring back
+in a row
+look back at
+make a mess
+keep one's cool
+senior high
+go by
+believe in
+first of all
+be thirsty for
+be thankful to sb
+ahead of
+along with
+be responsible for
+set out
+separate from
