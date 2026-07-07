@@ -1,4 +1,3 @@
-subject
 Chinese
 English
 Maths
@@ -8,23 +7,14 @@ Science
 Music
 Labour
 best
-also
-mouse
-interesting
-read
-story
-all
 day
 wash
-face
 have
 dinner
 breakfast
 lunch
 o'clock
-early
 thirty
-first
 twenty
 class
 eleven
@@ -44,52 +34,34 @@ every
 at
 up
 today
-cinema
 dancing
 lesson
-walk
 dog
 tomorrow
 free
-play
+football
 ping-pong
 basketball
-great
 swimming
 so
 well
-hard
 try
 hair
 eye
 ear
 nose
 mouth
-arm
-leg
-robot
-his
 tall
 short
 doll
-her
 small
-bring
-show
-weather
-cloudy
-sunny
 cool
-rainy
 hot
-windy
 warm
 money
-park
-meet
-worry
 umbrella
-there
+season
+spring
 winter
 summer
 autumn
@@ -100,22 +72,20 @@ back
 in
 year
 snow
-wear
+cap
+coat
 skirt
 trousers
 dress
+shirt
+whose
 shorts
-look
 sunglasses
-why
-because
-clothes
 school
 see
 timetable
 playground
 afternoon
-go
 drawing
 draw
 flower
@@ -129,28 +99,30 @@ lake
 again
 fly
 kite
-fine
 too
 party
 sweater
-jeans
+wrong
 move
-hand
+hurt
 water
+ill
 tired
 dear
 happy
 Mrs
 speak
-may
 hear
+cough
+headache
 
 It's time for
 Welcome back to
-be good at
 learn about
 sports ground
 have lessons
+go to bed
+hurry up
 What time is it
 I'm coming
 Come on
@@ -159,13 +131,13 @@ Good night
 What day is it today
 after school
 See you tomorrow
-Have a go
 It's OK
 Well played
 lots of
 What's the weather like today
 fly a kite
 It's raining
+go boating
 go skating
 ice cream
 go swimming
@@ -182,10 +154,12 @@ go home
 have dinner
 watch TV
 in the evening
+at night
 Good idea
 I think so
+What's the matter
 come to school
-take care
 I'm fine, thank you
 See you
 Not so good
+at school

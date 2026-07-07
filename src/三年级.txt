@@ -1,39 +1,32 @@
 hello
 hi
 I
+am
 a
 cat
-class
 goodbye
 bye
 what
 is
 your
-name
 my
-too
 boy
 and
 girl
 Mr
 are
 you
-no
 not
 yes
 ha
-but
+oh
 sorry
 we
-in
-with
-right
 this
 friend
 she
 he
 good
-have
 many
 mother
 father
@@ -42,24 +35,18 @@ mum
 brother
 baby
 sister
-look
 the
-pond
-great
+who
 come
-meet
 family
-say
 grandfather
 uncle
 aunt
 grandmother
 cousin
-cool
 me
+wow
 big
-happy
-love
 one
 two
 three
@@ -73,65 +60,45 @@ ten
 now
 want
 car
-book
 ball
 cake
 some
+toy
 for
 OK
 please
 here
 thanks
-can
 do
-clean
 table
-draw
-sing
-dance
 dizzy
 picture
 er
-child
-school
 pen
 pencil
+ruler
 rubber
 schoolbag
 that
-put
-again
 long
 our
-classroom
-close
+window
+blackboard
 chair
-let
+sweep
+us
 desk
-dirty
-keep
 library
 talk
 eat
-run
-Mrs
-late
 on
-quiet
+shh
 behind
 tree
-by
 under
-flower
-play
-go
-plane
 very
 far
 where
-find
-over
-student
 from
 nice
 of
@@ -139,13 +106,12 @@ beautiful
 duck
 fruit
 orange
+grape
 banana
 apple
 mango
 share
-like
 they
-make
 an
 farm
 cow
@@ -155,29 +121,24 @@ pig
 home
 these
 those
-help
 cute
-move
 animal
 monkey
 lion
 tiger
 panda
 elephant
-lunchtime
-fish
-zoo
-see
 colour
 yellow
 blue
 red
+pink
+green
+brown
 black
 white
-buy
 sure
 chameleon
-little
 
 Good morning
 Good afternoon
@@ -191,17 +152,17 @@ Can I help you
 Yes, please
 How old are you
 Here you are
+You're welcome
 take pictures
 Are you OK
 pencil case
-Good idea
 put away
 Me too
-All right
 sit down
-look out of
 Would you like
+look at
 That's all right
+have fun
 after class
 break time
 What about you

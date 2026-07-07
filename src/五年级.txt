@@ -1,12 +1,12 @@
+bear
 there
 house
 soup
 room
-hard
 her
 Help
+beside
 between
-China
 then
 find
 their
@@ -15,7 +15,6 @@ classroom
 second
 computer
 third
-first
 swing
 heavy
 stop
@@ -23,19 +22,17 @@ great
 body
 no
 leg
-or
 arm
+foot
+rabbit
 give
-with
 also
-read
 story
 dance
 sing
 about
 idea
 ice
-hole
 doctor
 people
 cook
@@ -46,20 +43,14 @@ write
 e-friend
 email
 to
-live
-study
-Greece
 visit
 often
-chat
 Internet
 always
 sometimes
 buy
 sit
 by
-get
-next
 put
 look
 stocking
@@ -69,31 +60,32 @@ pudding
 all
 card
 children
+message
 song
 him
+letter
 storybook
 after
-fairy
+prince
 why
 because
 clothes
 let
-before
-late
+mushroom
 moon
 street
 near
 city
 bus
+metro
 taxi
 bike
 plane
 ship
-show
 young
+basket
 take
 walk
-bookshop
 sun
 cinema
 hospital
@@ -101,14 +93,13 @@ shop
 zoo
 supermarket
 film
-over
-feel
 should
+toothache
 dentist
 bedtime
 parent
-clean
 busy
+garden
 pest
 ladybird
 game
@@ -120,12 +111,12 @@ yummy
 love
 bread
 win
+yeah
 angry
 spot
 catch
 January
 February
-call
 jiaozi
 May
 June
@@ -143,25 +134,30 @@ March
 July
 August
 December
-play
+hero
 password
 answer
 fourth
 
 just right
+in front of
 show ... around
 one ... the other
-be good at
 a lot of
 play the piano
 watch films
 Look out
+at home
 wait a minute
 years old
 go fishing
+at weekends
 play with
 very much
 go to the cinema
+a lot
+come out
+get out
 Christmas tree
 Don't worry
 Christmas Eve
@@ -170,6 +166,9 @@ Christmas Day
 have a good time
 Merry Christmas
 What's wrong with
+have to
+try on
+take off
 be bad for
 leave ... behind
 far from
@@ -177,6 +176,7 @@ on foot
 ask the way
 get to
 get on
+get off
 ask ... for help
 turn right
 traffic light
@@ -191,10 +191,16 @@ point at
 sweep the floor
 wash the dishes
 make the bed
+go away
 I can't wait
+look for
 drive ... away
+Spring Festival
 Chinese New Year
+get together
 dragon boat race
-rice dumpling
+Mid-Autumn Festival
 moon cake
 rice cake
+Mother's Day
+Father's Day

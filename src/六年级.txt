@@ -1,16 +1,15 @@
+clever
 foolish
 wear
 tell
 say
+quick
 next
 little
-turn
 think
-hard
 grandchildren
 child
 sunny
-show
 interesting
 weather
 windy
@@ -19,26 +18,26 @@ bring
 drink
 bee
 rain
-rainy
 meet
 know
 holiday
 call
-Bund
 star
-paper
+excited
 ask
 ago
 use
 telephone
+anywhere
 radio
-newspaper
 watch
 e-book
 TV
+spell
 with
 yesterday
 careful
+floor
 outing
 keep
 clean
@@ -46,53 +45,45 @@ make
 air
 dirty
 messy
-skin
+plant
 slip
 Earth
 much
-reuse
+glass
 get
 food
 tangyuan
 fireworks
 firecracker
 hooray
-mouse
-loudly
+light
+strong
+quietly
+net
 sharp
-sadly
-happily
 never
 late
-tidy
 bad
+sleepy
 fast
 healthy
-diet
 cola
 cross
-safely
-must
+safe
 pavement
+rule
 clown
+begin
 will
 learn
-magazine
 kangaroo
 koala
 sport-lover
 welcome
-visitor
-Oxford
-like
 month
-Taipei
 photo
 travel
-traveller
-astronaut
 spaceship
-dancer
 pianist
 
 long long ago
@@ -105,6 +96,8 @@ fashion show
 go well
 heavy rain
 then and now
+mobile phone
+make friends
 all over the world
 do shopping
 look out of
@@ -123,13 +116,15 @@ Wet floor
 walk on
 pick ... up
 come from
+too many
+too much
 next week
 Chinese New Year's Eve
 Chinese New Year's Day
-red packet
 lion dance
 walk by
 wake ... up
+some day
 let ... go
 the next day
 just then
@@ -138,16 +133,13 @@ pour ... into
 put ... in order
 last night
 go into
-a little
-at a time
 zebra crossing
 look out for
 Children's Day
-Australian football
+put on
 What do you think
 summer holiday
 go back to
 how long
 travel around the world
 football player
-come true
